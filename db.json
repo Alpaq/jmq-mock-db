@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "first_name": "Alexey",
+      "last_name": "Alexeev",
+      "location": "Moscow",
+      "date": "January 28, 2022",
+      "time": "12:30"
+    },
+    {
+      "id": 2,
+      "first_name": "Sergey",
+      "last_name": "Sergeev",
+      "location": "Vladimir",
+      "date": "February 2, 2022",
+      "time": "09:05"
+    },
+    {
+      "id": 3,
+      "first_name": "Larisa",
+      "last_name": "Sergeeva",
+      "location": "Vladimir",
+      "date": "February 6, 2022",
+      "time": "10:50"
+    }
+  ]
+}
